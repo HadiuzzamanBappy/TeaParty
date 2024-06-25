@@ -11,14 +11,18 @@ It is a fun website development using:
 
 Attributes:
 -----------------------------
->> One can Join with the URL and participate to give a choice whether one want to join a tea party.
->> After Joining they can see the list who have joined at the party at mentioned time.
->> There is a admin panel where the admin can change party time or add/delete any member from the party.
+<ul>
+  <li>One can Join with the URL and participate to give a choice whether one want to join a tea party.</li>
+  <li>After Joining they can see the list who have joined at the party at mentioned time.</li>
+  <li>There is a admin panel where the admin can change party time or add/delete any member from the party.</li>
+</ul>
 
 How to run:
 -------------------------------
->> Clone the repository.
->> Ensure you have installed node.
->> run command from that folder that "npm start"
+<ul>
+  <li>Clone the repository.</li>
+  <li>Ensure you have installed node.</li>
+  <li>run command from that folder that "npm start"</li>
+</ul>
 
-If anyone have any Enquiry: hbappy79@gmail.com
+If anyone have any Enquiry: <a href="mailto:hbappy79@gmail.com">hbappy79@gmail.com</a>
