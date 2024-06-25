@@ -2,10 +2,12 @@
 
 It is a fun website development using:
 -----------------------------------
->> node.js server for API service
->> HTML CSS for frontend development.
->> SASS as css compiler
->> JSON file as a local database.
+<ul>
+  <li>node.js server for API service</li>
+  <li>HTML CSS for frontend development.</li>
+  <li>SASS as css compiler</li>
+  <li>JSON file as a local database.</li>
+</ul>
 
 Attributes:
 -----------------------------
